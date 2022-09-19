@@ -1,5 +1,8 @@
-HTB Pro labs writeup Dante, Offshore, RastaLabs, Cybernetics, APTLabs\
+HTB Pro labs writeup Dante, Offshore, RastaLabs, Cybernetics, APTLabs
 Hackthebox Pro labs writeup Dante, Offshore, RastaLabs, Cybernetics, APTLabs
+
+HTB Dante, Offshore, RastaLabs, Cybernetics, APTLabs writeup
+Hackthebox Dante, Offshore, RastaLabs, Cybernetics, APTLabs writeup
 
 
 HackTheBox Pro Labs Writeups - https://htbpro.xyz
